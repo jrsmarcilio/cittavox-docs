@@ -66,7 +66,15 @@
 
   6. Comunidade: a população da cidade em geral, que pode se beneficiar do uso do aplicativo. A comunidade também pode fornecer feedback sobre o aplicativo e ajudar a identificar problemas que precisam ser abordados.
 
-## 12. Aprovação
+## 12. Exclusão de Responsabilidades
+  
+  - Desenvolvimento de funcionalidades de gamificação, como pontos, medalhas, entre outros.
+  - Integração com redes sociais, como Facebook e Twitter.
+  - Tradução do aplicativo para outros idiomas.
+  - Suporte técnico para os usuários.
+  - Manutenção corretiva do aplicativo após a conclusão do projeto.
+
+## 13. Aprovação
    Este Termo de Abertura de Projeto é aprovado pelo(s) patrocinador(es) do projeto e pelo gerente de projetos.
 
    Assinaturas:
