@@ -13,11 +13,10 @@ Citta
    O escopo deste projeto inclui o desenvolvimento do aplicativo mobile, incluindo o design, a programação, a implementação e os testes. O aplicativo deve permitir que os usuários acessem informações sobre necessidades de operações na cidade e façam denúncias e relatem problemas. Além disso, deve ter uma interface amigável e intuitiva para facilitar o uso.
 
 ## 5. Histórico de Mudança
-Versão         Data              Descrição                           Responsável
-   001         27/03/2023        Elaboração do termo de abertura     Marleide Alves
-   002         01/04/2023        melhoria do termo de abertura       Marcílio Júnior
-   003         03/04/2023        Finalização do termo de abertura    Marleide Alves
-
+Versão 001  Data: 27/03/2023  Descrição: Elaboração do termo de abertura    Responsável: Marleide Alves
+Versão 002  Data: 01/04/2023  Descrição: Melhoria do termo de abertura      Responsável: Marcílio Júnior
+Versão 003  Data: 03/04/2023  Descrição: Finalização do termo de abertura   Responsável: Marleide Alves
+ 
 ## 6. Objetivos
    Os objetivos deste projeto são:
 
@@ -93,4 +92,4 @@ Versão         Data              Descrição                           Respons�
 
   <p style="text-align: center;">(Patrocinador do projeto)</p> <hr><br>
   <p style="text-align: center;">(Gerente de projetos)</p> <hr>
-  <p style="text-align: center;">(Gerente de projetos)</p> <hr>
+
