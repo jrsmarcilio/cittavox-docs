@@ -13,18 +13,11 @@ Cittavox
    O escopo deste projeto inclui o desenvolvimento do aplicativo mobile, incluindo o design, a programação, a implementação e os testes. O aplicativo deve permitir que os usuários acessem informações sobre necessidades de operações na cidade e façam denúncias e relatem problemas. Além disso, deve ter uma interface amigável e intuitiva para facilitar o uso.
 
 ## 5. Histórico de Mudança
-   - Versão 001
-      - Data: 27/03/2023
-      - Descrição: Elaboração do termo de abertura
-      - Responsável: Marleide Alves
-   - Versão 002
-      - Data: 01/04/2023
-      - Descrição: Melhoria do termo de abertura
-      - Responsável: Marcílio Júnior
-   - Versão 003
-      - Data: 03/04/2023 
-      - Descrição: Finalização do termo de abertura
-      - Responsável: Marleide Alves
+  Versão | Data | Descrição | Autor
+  -------|------|-----------|------
+  1.0 | 27/03/2023 | Elaboração do termo de abertura  | Marleide Alves
+  2.0 | 01/04/2023 | Melhoria do termo de abertura    | Marcílio Júnior
+  3.0 | 03/04/2023 | Finalização do termo de abertura | Marleide Alves
  
 ## 6. Objetivos
    Os objetivos deste projeto são:

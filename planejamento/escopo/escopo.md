@@ -101,3 +101,25 @@ Tempo total estimado: 17 meses
   ## Validação do escopo
   - Após a realização da entrega do Aplicativo as partes interessadas tem o prazo de 5 dias úteis para sinalizar ao gerente de projetos que a aplicação está conforme e que foi realizado o teste do app. 
   - O feedback do projeto e as eventuais dúvidas sobre o funcionamento da aplicação será feito através do e-mail da empresa: citta@gmail.com.br
+
+### Requisitos do Projeto
+  ## Requisitos Funcionais
+  - O aplicativo deve permitir que os usuários acessem informações sobre necessidades de operações na cidade.
+  - O aplicativo deve permitir que os usuários façam denúncias e relatem problemas na cidade.
+  - O aplicativo deve ser desenvolvido para dispositivos móveis (iOS e Android).
+  - O aplicativo deve ter funcionalidades de segurança para proteger as informações dos usuários e garantir a privacidade.
+  - O aplicativo deve ser entregue com documentação completa e atualizada.
+  - O aplicativo deve permitir que os usuários façam login para acessar informações específicas.
+  - O aplicativo deve permitir que os usuários recebam notificações sobre atualizações de informações ou respostas às denúncias.
+  ## Requisitos Não Funcionais
+  - O aplicativo deve ser desenvolvido para dispositivos móveis (iOS e Android).
+  - O aplicativo deve ter funcionalidades de segurança para proteger as informações dos usuários e garantir a privacidade.
+  - O aplicativo deve ser entregue com documentação completa e atualizada.
+  - O aplicativo deve permitir que os usuários façam login para acessar informações específicas.
+  - O aplicativo deve permitir que os usuários recebam notificações sobre atualizações de informações ou respostas às denúncias.
+  ## Requisitos de Interface
+  - O aplicativo deve ter uma interface amigável e intuitiva, facilitando o uso pelos usuários.
+  ## Requisitos de Usabilidade
+  - O aplicativo deve ter uma interface amigável e intuitiva, facilitando o uso pelos usuários.
+  ## Requisitos de Segurança
+  - O aplicativo deve ter funcionalidades de segurança para proteger as informações dos usuários e garantir a privacidade.
