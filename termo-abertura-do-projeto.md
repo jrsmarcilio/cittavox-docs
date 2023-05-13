@@ -1,7 +1,7 @@
 # Termo de Abertura do Projeto
 
 ## 1. Nome da Empresa:
-Citta
+Cittavox
 
 ## 2. Resumo do projeto
    O objetivo principal deste projeto é desenvolver um aplicativo mobile que permita a divulgação de informações sobre necessidades de operações na cidade, tais como obras de infraestrutura, limpeza, coleta de lixo, calçamento, obras de saneamento básico, vazamentos de água, entre outros. Além disso, o aplicativo permitirá que os usuários possam denunciar problemas que estejam ocorrendo na cidade, como buracos na rua, falta de iluminação, entre outros.
