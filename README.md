@@ -11,7 +11,7 @@ A Citta é uma empresa de tecnologia sediada em Recife que desenvolve negócios 
 ## Artefatos:
   - [Termo de Abertura do Projeto](https://github.com/jrsmarcilio/cittavox-docs/blob/main/termo-abertura-do-projeto.md)
   - Planejamento do Escopo
-    - [Plano de gerenciamento do escopo](https://github.com/jrsmarcilio/cittavox-docs/blob/main/planejamento-do-escopo.md)
+    - [Plano de gerenciamento do escopo](https://github.com/jrsmarcilio/cittavox-docs/blob/4a8619bd43bb6e99821a98dc579696c82a093eed/planejamento/escopo/escopo.md)
     - [EAP](https://miro.com/app/board/uXjVMJVVRiA=/?share_link_id=95330730484)
     - [CardPanel](https://miro.com/app/board/uXjVMJVVRiA=/?openCardPanel=3458764554316707647)
     - [Issue](https://github.com/jrsmarcilio/cittavox-docs/issues/2)
