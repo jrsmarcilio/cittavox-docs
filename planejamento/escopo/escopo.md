@@ -91,13 +91,27 @@ Tempo total estimado: 17 meses
 #### Obs.: Essas são apenas estimativas iniciais e que o custo e o tempo real do projeto podem variar dependendo de vários fatores, como a complexidade do aplicativo, a disponibilidade da equipe e a ocorrência de riscos e imprevistos ao longo do projeto. Essas estimativas serão revisadas e atualizadas ao longo do projeto.
 
   ## Critérios de Aceitação
-  - O aplicativo deve permitir que os usuários acessem informações sobre necessidades de operações na cidade.
-  - O aplicativo deve permitir que os usuários façam denúncias e relatem problemas na cidade.
-  - O aplicativo deve ser desenvolvido para dispositivos móveis (iOS e Android).
-  - O aplicativo deve ter funcionalidades de segurança para proteger as informações dos usuários e garantir a privacidade.
-  - O aplicativo deve ser entregue com documentação completa e atualizada.
-  - O aplicativo deve permitir que os usuários façam login para acessar informações específicas.
-  - O aplicativo deve permitir que os usuários recebam notificações sobre atualizações de informações ou respostas às denúncias.
+  Os critérios adicionais de aceitação ajudarão a garantir que o produto desenvolvido atenda a todos os requisitos do cliente, seja compatível e esteja em conformidade com as normas e regulamentos aplicáveis, tenha boa aparência e desempenho, além de garantir que o projeto seja gerenciado de forma efetiva e entregue no prazo especificado.
+
+| Critérios de Aceitação | Descrição | Indicador de desempenho | Métrica |
+| --- | --- | --- | --- |
+| Produto em desenvolvimento | O produto deve atender a todos os requisitos especificados pelo cliente | Taxa de bugs | <= 1 bug por 1000 linhas de código |
+| Produto em desenvolvimento | O produto deve ser testado e aprovado por todos os stakeholders relevantes | Taxa de aprovação | >= 90% |
+| Produto em desenvolvimento | O produto deve ser fácil de usar e intuitivo | Taxa de abandono de usuários durante o teste de usabilidade | <= 10% |
+| Produto em desenvolvimento | O produto deve ser seguro e confiável | Taxa de falhas | <= 1 falha por 1000 horas de uso |
+| Produto em desenvolvimento | O produto deve ser escalável e capaz de lidar com altas demandas de uso | Taxa de crescimento | >= 10% |
+| Execução do projeto | O projeto deve ser concluído dentro do cronograma estabelecido | Variação do prazo planejado versus o prazo real | <= 10% |
+| Execução do projeto | O projeto deve ser executado dentro do orçamento estabelecido | Variação do custo planejado versus o custo real | <= 10% |
+| Execução do projeto | O esforço da equipe deve estar alinhado com o planejado | Variação do esforço planejado versus o esforço real | <= 10% |
+| Execução do projeto | As entregas do projeto devem atender aos padrões de qualidade definidos | Taxa de aprovação | >= 90% |
+| Execução do projeto | O projeto deve ser bem documentado e transferido para a equipe de suporte | Taxa de documentação | >= 90% |
+| Satisfação do cliente | O cliente deve estar satisfeito com o produto final | Taxa de satisfação | >= 90% |
+| Satisfação do cliente | O cliente deve estar satisfeito com a execução do projeto | Taxa de satisfação | >= 90% |
+| Comunicação | A comunicação deve ser eficaz e clara entre todos os membros da equipe e stakeholders relevantes | Taxa de problemas de comunicação reportados | <= 5% |
+| Comunicação | A comunicação deve ser feita de maneira oportuna e relevante | Taxa de atrasos de comunicação | <= 5% |
+| Riscos | Os riscos do projeto devem ser identificados, monitorados e gerenciados de maneira eficaz | Taxa de riscos não identificados | <= 5% |
+| Riscos | Os riscos críticos do projeto devem ser mitigados ou evitados | Taxa de riscos críticos mitigados ou evitados | >= 80% |
+
   ## Validação do escopo
   - Após a realização da entrega do Aplicativo as partes interessadas tem o prazo de 5 dias úteis para sinalizar ao gerente de projetos que a aplicação está conforme e que foi realizado o teste do app. 
   - O feedback do projeto e as eventuais dúvidas sobre o funcionamento da aplicação será feito através do e-mail da empresa: citta@gmail.com.br
