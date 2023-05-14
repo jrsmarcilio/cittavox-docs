@@ -137,3 +137,10 @@ Tempo total estimado: 17 meses
   - O aplicativo deve ter uma interface amigável e intuitiva, facilitando o uso pelos usuários.
   ## Requisitos de Segurança
   - O aplicativo deve ter funcionalidades de segurança para proteger as informações dos usuários e garantir a privacidade.
+  ## Controle de Qualidade
+  - O controle de qualidade do projeto será realizado através de testes de software, que serão realizados por um tester profissional.
+  - Os testes de software serão realizados de acordo com o plano de testes, que inclui os casos de teste, os critérios de aceitação e os resultados esperados.
+  - Os testes de software serão realizados de acordo com o cronograma do projeto, que inclui as datas de início e término de cada teste.
+  - Os testes de software serão realizados de acordo com o orçamento do projeto, que inclui os recursos humanos e materiais necessários para a realização dos testes.
+  - Os testes de software serão realizados de acordo com o plano de testes, que inclui os casos de teste, os critérios de aceitação e os resultados esperados.
+  - Os testes de software serão realizados de acordo com o cronograma do projeto, que inclui as datas de início e término de cada teste.
