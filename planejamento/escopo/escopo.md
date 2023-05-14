@@ -70,8 +70,8 @@ Todas essas entregas devem ser realizadas dentro do prazo estabelecido e de acor
   - UX/UI Designer - Tech Lider: 4 meses x R$ 6.000/mês = R$ 24.000,00
   - Desenvolvedora: 10 meses x R$ 6.500,00/mês = R$65.000,00
   - Estágiária: 6 meses x 1.500,00/mês = 9.000,00
-  -	Tester: 3 meses x R$ 2.000/mês = R$ 6.000,00
-  - UI Designer: 4 meses x R$ 3.000/mês = R$ 12.000,00
+  -	Provador: 3 meses x R$ 2.000/mês = R$ 6.000,00
+  - Designer de interface do usuário: 4 meses x R$ 3.000/mês = R$ 12.000,00
 
 Total de recursos humanos: R$ 2.775.500,00
 
@@ -106,8 +106,8 @@ Custo total estimado: R$ 2.795.500,00
   - UX/UI Designer - Tech Lider: 4 meses
   - Desenvolvedora: 10 meses 
   - Estágiária: 6 meses 
-  -	Tester: 3 meses 
-  - UI Designer: 4 meses 
+  -	Provador:: 3 meses 
+  - Designer de interface do usuário: 4 meses 
 
 Tempo total estimado: 17 meses
 #### Obs.: Essas são apenas estimativas iniciais e que o custo e o tempo real do projeto podem variar dependendo de vários fatores, como a complexidade do aplicativo, a disponibilidade da equipe e a ocorrência de riscos e imprevistos ao longo do projeto. Essas estimativas serão revisadas e atualizadas ao longo do projeto.
