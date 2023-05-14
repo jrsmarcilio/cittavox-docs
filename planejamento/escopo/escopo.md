@@ -55,14 +55,25 @@ Todas essas entregas devem ser realizadas dentro do prazo estabelecido e de acor
 ## Estimativas de Tempo e Custo
 
 ### Recursos humanos:
-  
-  - Gerente de projetos: 17 meses x R$ 10.000/mês = R$ 170.000,00
-  - UX Designer: 4 meses x R$ 6.000/mês = R$ 24.000,00
-  - 2 desenvolvedores: 10 meses x R$ 13.000/mês = R$ 130.000
-  - Tester: 3 meses x R$ 2.000/mês = R$ 6.000,00
-  - DBA: 8 meses x R$ 7.000/mês = R$ 56.000
 
-Total de recursos humanos: R$ 386.000,00
+  - Diretora - Presidente: 17 meses x  R$ 42.000/mês = 714.000,00
+  - Diretor Financeiro: 17 meses x R$ 24.000/mês = 408.000,00
+  - Diretora Técnica: 17 meses x R$ 20.000/ mês = 340.000,00
+  - Gerente de Suporte: 17 meses x 15.000/mês = 255.000,00
+  - Gerente de Sistemas: 17 meses x 12.000/mês = 204.000,00
+  - Gerente de Produção: 17 meses x 11.000/mês = 187.000,00
+  - Coordenador de Sistemas: 17 meses x 10.500/mês = 178.500,00
+  -	Coordenador de Projetos: 17 meses x 10.000/mês = 170.000,00
+  - Analista de Sistema - Tech Lider: 15 meses x 9.000,00 = 135.000,00
+  - Analista de Testes - Tech Lider: 3 meses x 4.000,00 = 12.000,00
+  - Arquiteto de Soluções: 8 meses x R$ 7.000/mês = R$ 56.000
+  - UX/UI Designer - Tech Lider: 4 meses x R$ 6.000/mês = R$ 24.000,00
+  - Desenvolvedora: 10 meses x R$ 6.500,00/mês = R$65.000,00
+  - Estágiária: 6 meses x 1.500,00/mês = 9.000,00
+  -	Tester: 3 meses x R$ 2.000/mês = R$ 6.000,00
+  - UI Designer: 4 meses x R$ 3.000/mês = R$ 12.000,00
+
+Total de recursos humanos: R$ 2.775.500,00
 
 ### Recursos materiais:
   
@@ -74,18 +85,29 @@ Total de recursos materiais: R$ 20.000,00
 
 ### Custo total:
   
-  - Recursos humanos: R$ 386.000,00
+  - Recursos humanos: R$ 2.775.500,00
   - Recursos materiais: R$ 20.000,00
   
-Custo total estimado: R$ 406.000,00
+Custo total estimado: R$ 2.795.500,00
 
 ### Estimativa de tempo:
 
-  - Gerente de projetos: 17 meses
-  - UX Designer: 4 meses
-  - 2 desenvolvedores:  10 meses
-  - Tester: 3 meses
-  - DBA: 8 meses
+  - Diretora - Presidente: 17 meses 
+  - Diretor Financeiro: 17 meses 
+  - Diretora Técnica: 17 meses
+  - Gerente de Suporte: 17 meses
+  - Gerente de Sistemas: 17 meses
+  - Gerente de Produção: 17 meses 
+  - Coordenador de Sistemas: 17 meses 
+  -	Coordenador de Projetos: 17 meses 
+  - Analista de Sistema - Tech Lider: 15 meses 
+  - Analista de Testes - Tech Lider: 3 meses
+  - Arquiteto de Soluções: 8 meses 
+  - UX/UI Designer - Tech Lider: 4 meses
+  - Desenvolvedora: 10 meses 
+  - Estágiária: 6 meses 
+  -	Tester: 3 meses 
+  - UI Designer: 4 meses 
 
 Tempo total estimado: 17 meses
 #### Obs.: Essas são apenas estimativas iniciais e que o custo e o tempo real do projeto podem variar dependendo de vários fatores, como a complexidade do aplicativo, a disponibilidade da equipe e a ocorrência de riscos e imprevistos ao longo do projeto. Essas estimativas serão revisadas e atualizadas ao longo do projeto.
