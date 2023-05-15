@@ -34,3 +34,4 @@ A Citta é uma empresa de tecnologia sediada em Recife que desenvolve negócios 
   - Planejamento das Aquisições
     - [Documento](https://github.com/jrsmarcilio/cittavox-docs/blob/main/planejamento/aquisicao/aquisicao.md)
   - Plano de gerenciamento de riscos
+    - [Documento](https://github.com/jrsmarcilio/cittavox-docs/blob/main/planejamento/risco/risco.md)
