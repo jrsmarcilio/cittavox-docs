@@ -22,11 +22,15 @@ A Citta é uma empresa de tecnologia sediada em Recife que desenvolve negócios 
       - [PDF](https://github.com/jrsmarcilio/cittavox-docs/blob/4a8619bd43bb6e99821a98dc579696c82a093eed/assets/organograma-da-equipe.pdf)
     - [Papéis e Responsabilidades](https://github.com/jrsmarcilio/cittavox-docs/blob/4a8619bd43bb6e99821a98dc579696c82a093eed/planejamento/equipe/matriz-de-responsabilidade.md)
   - Cronograma
-    - [Cronograma](https://github.com/jrsmarcilio/cittavox-docs/blob/4a8619bd43bb6e99821a98dc579696c82a093eed/cronograma/cronograma.xlsx)
-    - [Plano de gerenciamento do cronograma]()
-
-  - Planejamento do Custo (planilha de custos do projeto);
-  - Planejamento da Comunicação;
-  - Plano de gerenciamento da qualidade;
-  - Planejamento das Aquisições;
-  - Plano de gerenciamento de riscos;
+    - [Documento](https://github.com/jrsmarcilio/cittavox-docs/blob/main/cronograma/cronograma.md)
+    - [PDF](https://github.com/jrsmarcilio/cittavox-docs/blob/main/cronograma/Cronograma.pdf)
+    - [ProjectLibre](https://github.com/jrsmarcilio/cittavox-docs/blob/main/cronograma/Cittavox.pod)
+  - Planejamento do Custo
+    - [Planilha](https://docs.google.com/spreadsheets/d/e/2PACX-1vQydYABEvt4VorvgzsMr0pAbI0UPQNz508kn232BsIL0VfVO65YPleOki6ZDt_i-A/pubhtml)
+  - Planejamento da Comunicação
+    - [Documento](https://github.com/jrsmarcilio/cittavox-docs/blob/main/planejamento/comunicacao/comunicacao.md)
+  - Plano de gerenciamento da qualidade
+    - [Documento](https://github.com/jrsmarcilio/cittavox-docs/blob/main/planejamento/qualidade/qualidade.md)
+  - Planejamento das Aquisições
+    - [Documento](https://github.com/jrsmarcilio/cittavox-docs/blob/main/planejamento/aquisicao/aquisicao.md)
+  - Plano de gerenciamento de riscos

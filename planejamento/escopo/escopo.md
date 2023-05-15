@@ -56,24 +56,25 @@ Todas essas entregas devem ser realizadas dentro do prazo estabelecido e de acor
 
 ### Recursos humanos:
 
-  - Diretora - Presidente: 17 meses x  R$ 42.000/mês = 714.000,00
-  - Diretor Financeiro: 17 meses x R$ 24.000/mês = 408.000,00
-  - Diretora Técnica: 17 meses x R$ 20.000/ mês = 340.000,00
-  - Gerente de Suporte: 17 meses x 15.000/mês = 255.000,00
-  - Gerente de Sistemas: 17 meses x 12.000/mês = 204.000,00
-  - Gerente de Produção: 17 meses x 11.000/mês = 187.000,00
-  - Coordenador de Sistemas: 17 meses x 10.500/mês = 178.500,00
-  -	Coordenador de Projetos: 17 meses x 10.000/mês = 170.000,00
-  - Analista de Sistema - Tech Lider: 15 meses x 9.000,00 = 135.000,00
-  - Analista de Testes - Tech Lider: 3 meses x 4.000,00 = 12.000,00
-  - Arquiteto de Soluções: 8 meses x R$ 7.000/mês = R$ 56.000
-  - UX/UI Designer - Tech Lider: 4 meses x R$ 6.000/mês = R$ 24.000,00
-  - Desenvolvedora: 10 meses x R$ 6.500,00/mês = R$65.000,00
-  - Estágiária: 6 meses x 1.500,00/mês = 9.000,00
-  -	Tester: 3 meses x R$ 2.000/mês = R$ 6.000,00
-  - UI Designer: 4 meses x R$ 3.000/mês = R$ 12.000,00
-
-Total de recursos humanos: R$ 2.775.500,00
+| Cargo | Qnt. Meses | Valor Mensal | Total |
+| --- | --- | --- | --- |
+| Diretora - Presidente | 17 | R$ 42.000,00 | R$ 714.000,00 |
+| Diretor Financeiro | 17 | R$ 24.000,00 | R$ 408.000,00 |
+| Diretora Técnica | 17 | R$ 20.000,00 | R$ 340.000,00 |
+| Gerente de Suporte | 17 | R$ 15.000,00 | R$ 255.000,00 |
+| Gerente de Sistemas | 17 | R$ 12.000,00 | R$ 204.000,00 |
+| Gerente de Produção | 17 | R$ 11.000,00 | R$ 187.000,00 |
+| Coordenador de Sistemas | 17 | R$ 10.500,00 | R$ 178.500,00 |
+| Coordenador de Projetos | 17 | R$ 10.000,00 | R$ 170.000,00 |
+| Analista de Sistema - Tech Lider | 15 | R$ 9.000,00 | R$ 135.000,00 |
+| Analista de Testes - Tech Lider | 3 | R$ 4.000,00 | R$ 12.000,00 |
+| Arquiteto de Soluções | 8 | R$ 7.000,00 | R$ 56.000,00 |
+| UX/UI Designer - Tech Lider | 4 | R$ 6.000,00 | R$ 24.000,00 |
+| Desenvolvedora | 10 | R$ 6.500,00 | R$ 65.000,00 |
+| Estágiária | 6 | R$ 1.500,00 | R$ 9.000,00 |
+| Tester | 3 | R$ 2.000,00 | R$ 6.000,00 |
+| UI Designer | 4 | R$ 3.000,00 | R$ 12.000,00 |
+| Total |  |  | R$ 2.775.500,00 |
 
 ### Recursos materiais:
   
