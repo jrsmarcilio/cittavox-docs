@@ -107,8 +107,8 @@ Custo total estimado: R$ 2.795.500,00
   - UX/UI Designer - Tech Lider: 4 meses
   - Desenvolvedora: 10 meses 
   - Estágiária: 6 meses 
-  -	Tester: 3 meses 
-  - UI Designer: 4 meses 
+  -	Provador:: 3 meses 
+  - Designer de interface do usuário: 4 meses 
 
 Tempo total estimado: 17 meses
 #### Obs.: Essas são apenas estimativas iniciais e que o custo e o tempo real do projeto podem variar dependendo de vários fatores, como a complexidade do aplicativo, a disponibilidade da equipe e a ocorrência de riscos e imprevistos ao longo do projeto. Essas estimativas serão revisadas e atualizadas ao longo do projeto.
